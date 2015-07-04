@@ -1,3 +1,3 @@
 # EHMI-QT-Prak
 
-stuff..
+stuff for university
